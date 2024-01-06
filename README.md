@@ -1,4 +1,4 @@
- ## Password Generator and Manager**
+ ## Password Generator and Manager
 
 **A password management application built with Python and Tkinter.**
 
